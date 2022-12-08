@@ -9,6 +9,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.header, .footer {
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 
+        Arial, sans-serif;
+}
+
 h1 {
     display: inline-block;
     font-size: 48px;
@@ -22,11 +27,6 @@ h2 {
 h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-
-header, footer {
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 
-        Arial, sans-serif;
 }
 
 .header {
