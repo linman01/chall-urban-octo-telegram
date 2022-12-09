@@ -18,4 +18,4 @@ Heading styles are now listed together at the top of the stylesheet.
 UCLA Extensions Bootcamp
 
 ## Screenshot
-![Screenshot of Horiseon Social Solutions](./Develop/assets/images/screenshot.png)
+![Screenshot of Horiseon Social Solutions](./assets/images/screenshot.png)
